@@ -6,6 +6,7 @@ public class Raiz {
     private Double b;
     private Double c;
     private Double d;
+    private Double e;
 
     public Raiz(Double a, Double b, Double c) {
         this.a = a;
